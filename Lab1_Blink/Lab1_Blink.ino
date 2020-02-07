@@ -15,9 +15,12 @@ void timedBlink(int interval) {
 
 // the loop function runs over and over again forever
 void loop() {
-  timedBlink(.25 * second);
-  timedBlink(.5*second);
-  timedBlink(second);
+  for(int i=0; i<100; i += 10 ) {
+    dimmer(100, i);
+  }
+  for(int j=100; j>0; j-=10 ) {
+    dimmer(100, j);
+  }
 }
 
 void dimmer(int freq, int duty) {
