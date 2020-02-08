@@ -61,7 +61,7 @@ Team Number: F4
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/timed_blink.PNG)
+![Put path to your image here ->](img/timed_blink_img.PNG)
 
 Procedure A, step 4:
 ![Put path to your image here ->](img/dimmer_img.PNG)
