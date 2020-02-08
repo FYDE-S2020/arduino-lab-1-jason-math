@@ -61,13 +61,13 @@ Team Number: F4
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/timed_blink.png)
+![Put path to your image here ->](img/timed_blink.PNG)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/dimmer_img.png)
+![Put path to your image here ->](img/dimmer_img.PNG)
 
 Procedure B, UART:
-![Put path to your image here ->](img/uart_message.png)
+![Put path to your image here ->](img/uart_message.PNG)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/spi_message.png)
+![Put path to your image here ->](img/spi_message.PNG)
