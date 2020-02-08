@@ -8,7 +8,7 @@ Team Number: F4
 
 1. Why does your program need a setup and a loop?
 
-    Setup is needed to initialize the program and set any initial values. The loops is needed to run repeatedly and change and respond to inputs.
+    Setup is needed to initialize the program and set any initial values. The loop is needed to run repeatedly and change and respond to inputs.
 
 2. What is the downside to putting all your code in a loop?
 
@@ -28,7 +28,7 @@ Team Number: F4
 
 6. What is the difference between synchronous and asynchronous communication?
 
-    Synchronous is used everything operates at the same speed and controlled by a clock. Asynchrous is used for devices that operate at different speeds and controlled by an external interrupt "ready" signal to know when there is data to be read.
+    Synchronous is used so everything operates at the same speed and is controlled by a clock. Asynchronous is used for devices that operate at different speeds and controlled by an external interrupt "ready" signal to know when there is data to be read.
 
 7. Profile of UART: Sent X bytes in Y time 
 
@@ -52,7 +52,7 @@ Team Number: F4
 
 12. list one pro and one con of I2C
 
-    Pro: Low pin/signal count even with numerous devices on bus. Con: Requires more space due to resistors.
+    Pro: Low pin/signal count even with numerous devices on the bus. Con: Requires more space due to resistors.
 
 13. Why does I2C need external resistors to work?
 
